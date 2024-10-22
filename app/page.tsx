@@ -1,17 +1,16 @@
-  // // import Image from "next/image";
+  // import Image from "next/image";
 
-  // // export default function Home() {
-  // //   return (
-  // //   <div className="bg-black ">
-  // //     <h1 className="text-purple-900 font-bold text-9xl"> Tailwind CSS</h1>
-  // //     <p className="text-red-700 text-pretty">
-  // //       Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis maxime nulla alias eaque voluptatem obcaecati enim quos expedita. Deserunt doloribus quia ad odit? Laborum non magni accusamus saepe voluptates at.
-  // //     </p>
-  // //   </div>
-  // //   );
-  // // }
+  // export default function Home() {
+  //   return (
+  //   <div className="bg-black ">
+  //     <h1 className="text-purple-900 font-bold text-9xl"> Tailwind CSS</h1>
+  //     <p className="text-red-700 text-pretty">
+  //       Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis maxime nulla alias eaque voluptatem obcaecati enim quos expedita. Deserunt doloribus quia ad odit? Laborum non magni accusamus saepe voluptates at.
+  //     </p>
+  //   </div>
+  //   );
+  // }
 
-  import Image from "next/image";
 
   export default function Home() {
     return (
