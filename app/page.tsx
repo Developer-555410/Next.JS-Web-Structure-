@@ -25,17 +25,19 @@
   <div className="bg-blue-900 h-10 w-44"></div>
   </div>
       </nav>
-      <div className="flex justify-center items-center min-h-screen bg-yellow-600">
-      <div className="bg-red-500 p-4 rounded-lg shadow-lg" >
-        <div className="flex">
-          <div className="m-3 p-4 bg-pink-400" style={{ width: '550px', height: '400px'}}>
-          </div>
-          <div className="m-3 p-4 bg-green-500" style={{ width: '550px', height: '400px'}}>
-          </div>
-        </div>
+      <div className="flex flex-wrap justify-centerm-4 p-4 gap 4">
+<div className="flex w-full justify between gap-4"></div>
+  <div className="w-1/3 bg-sky-600 h-96"></div>
+  <div className="w-1/3 bg-gray-600 h-96"></div>
+  <div className="w-1/3 bg-orange-600 h-96"></div>
       </div>
-    </div>
-    </div>
+      
+      <div className="flex w-full justify-between gap-4 mt-4 ">
+        <div className=" w-1/2 bg-yellow-600 h-96"></div>
+        <div className=" w-1/2 bg-green-700 h-96"></div>
+      </div>
+      </div>
+      
     );
   }
 
